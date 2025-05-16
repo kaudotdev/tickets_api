@@ -1,0 +1,13 @@
+{
+    "tickets": [
+        {
+            "created_at": "2025-05-16T01:47:09.043Z",
+            "description": "Computador não liga",
+            "equipment": "Computador",
+            "id": "56e34bd2-329a-43f8-946b-9e9b63420f01",
+            "status": "open",
+            "updated_at": "2025-05-16T01:47:09.043Z",
+            "user_name": "Kauan Souza"
+        }
+    ]
+}
